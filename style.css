@@ -35,6 +35,9 @@ body header img{
     text-align: center;
     text-transform: uppercase;
 }
+.my_image:hover{
+    transform: scale(1.1);
+}
 .about-text{
     color:rgb(34, 31, 31);
 }
